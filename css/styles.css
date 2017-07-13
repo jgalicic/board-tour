@@ -6,7 +6,6 @@ body {
   background-size: cover;
 }
 
-
 h1, h2, h4, h6 {
 	font-family: 'Passion One', cursive;
 	color: #DDC;
@@ -15,7 +14,8 @@ h1, h2, h4, h6 {
 }
 
 h1 {
-	font-size: 3.2em;
+	font-size: 5em;
+	margin: 20px;
 }
 
 .year {
@@ -26,7 +26,7 @@ h1 {
 
 .date {
 	font-family: 'Averia Serif Libre', sans-serif;
-	font-size: 1.6em;
+	font-size: 2.6em;
 	margin: 0;
 	position: relative;
 	top: -30px;
@@ -41,25 +41,17 @@ hr {
     background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(221, 221, 204, .75), rgba(0,0,0,0));
 }
 
-h4 {
-	font-size: 1.5em;
-	margin: 0;
-	padding: 0;
-	position: relative;
-	top: -28px;
-}
-
 h5 {
 	font-family: 'Passion One', cursive;
 	color: #DDC;
 	text-align: center;
-	font-size: 2em;
+	font-size: 3em;
 	margin: 5px 0 0 0;
 	padding: 0;
 }
 
 h5.nhs {
-	font-size: 1.8em;
+	font-size: 2.8em;
 	position: relative;
 	top: 30px;
 }
@@ -68,7 +60,7 @@ h6 {
 	font-family: 'Averia Serif Libre', sans-serif;
 	margin: 10px 0 0 0;
 	padding: 0;
-	font-size: 1.3em;
+	font-size: 2em;
 }
 
 p, a {
@@ -93,7 +85,7 @@ a:hover {
 .btn-container {
 	margin: 0 auto;
 	width: 80%;
-	max-width: 460px;
+	max-width: 800px;
 	height: 280px;
 	border: 4px solid #DDDDCC;
 	border-radius: 3px;
@@ -137,7 +129,7 @@ button:hover {
 }
 
 .med-btn {
-	height: 50px !important;
+	height: 70px !important;
 	margin: 10px 0;
 }
 
@@ -149,7 +141,7 @@ button:hover {
 	border: 4px solid #DDC;
 	border-radius: 4px;
 	width: 80%;
-	max-width: 450px;
+	max-width: 800px;
 	margin: 0 auto;
 	padding: 5px;
 }
@@ -158,7 +150,6 @@ button:hover {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
-	max-width: 600px;
 	margin: 0 auto;
 	background-color: rgba(0,0,0,.55);
 }
@@ -172,7 +163,7 @@ button:hover {
 
 .fa-chevron-down {
 	font-size: .7em;
-	margin: 0 40px;
+	margin: 0 30px;
 }
 
 
@@ -198,7 +189,7 @@ footer p {
 @media (min-width: 720px) {
 	 .fa-chevron-down {
 		font-size: .9em;
-		margin: 0 60px;
+		margin: 0 40px;
 	}
 }
 
