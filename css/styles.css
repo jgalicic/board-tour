@@ -18,6 +18,10 @@ h1 {
 	margin: 20px;
 }
 
+h2 {
+	font-size: 2em;
+}
+
 .year {
 	position: relative;
 	top: -35px;
@@ -64,6 +68,7 @@ h6 {
 }
 
 p, a {
+	font-size: 1.4em;
 	color: #DDC;
 	font-family: verdana, sans-serif;
 	text-decoration: none;
@@ -159,6 +164,10 @@ button:hover {
 	width: 90%;
 	margin: 0 auto;
 	border-radius: 5px;
+}
+
+.info {
+	font-size: 1.4em;
 }
 
 .fa-chevron-down {
