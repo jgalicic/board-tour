@@ -14,29 +14,31 @@ h1, h2, h3, h4, h6 {
 }
 
 h1 {
-	font-size: 5em;
-	margin: 20px;
-}
-
-h2 {
-	font-size: 2em;
+	font-size: 3em;
+	margin: 25px;
 }
 
 h3 {
-	font-size: 4em;
+	font-size: 2em;
 	padding: 0;
 	margin: 40px 0 10px 0;
 }
 
+h2 {
+	font-size: 1em;
+}
+
+
+
 .year {
 	position: relative;
-	top: -35px;
+	top: -25px;
 	margin: 0;
 }
 
 .date {
 	font-family: 'Averia Serif Libre', sans-serif;
-	font-size: 2.6em;
+	font-size: 1em;
 	margin: 0;
 	position: relative;
 	top: -30px;
@@ -55,26 +57,26 @@ h5 {
 	font-family: 'Passion One', cursive;
 	color: #DDC;
 	text-align: center;
-	font-size: 3em;
+	font-size: 1.6em;
 	margin: 5px 0 0 0;
 	padding: 0;
 }
 
 h5.nhs {
-	font-size: 2.8em;
+	font-size: 1em;
 	position: relative;
-	top: 30px;
+	top: 25px;
 }
 
 h6 {
 	font-family: 'Averia Serif Libre', sans-serif;
 	margin: 10px 0 0 0;
 	padding: 0;
-	font-size: 2em;
+	font-size: 1.2em;
 }
 
 p, a {
-	font-size: 1.4em;
+	font-size: 1em;
 	color: #DDC;
 	font-family: verdana, sans-serif;
 	text-decoration: none;
@@ -139,7 +141,7 @@ button:hover {
 }
 
 .fa-exclamation-circle {
-	font-size: 1.5em;
+	font-size: 1em;
 	color: firebrick;
 	margin-top: -2px;
 }
@@ -177,7 +179,7 @@ button:hover {
 }
 
 .info {
-	font-size: 1.4em;
+	font-size: 1em;
 }
 
 .fa-chevron-down {
