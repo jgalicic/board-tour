@@ -126,7 +126,6 @@ button:hover {
 }
 
 .big-btn {
-	height: 110px !important;
 	padding-top: 12px;
 }
 
@@ -139,8 +138,13 @@ button:hover {
 	font-family: verdana, serif;
 }
 
+.fa-exclamation-circle {
+	font-size: 1.5em;
+	color: firebrick;
+	margin-top: -2px;
+}
+
 .med-btn {
-	height: 70px !important;
 	margin: 10px 0;
 }
 
@@ -162,7 +166,7 @@ button:hover {
 	flex-direction: column;
 	width: 100%;
 	margin: 0 auto;
-	background-color: rgba(0,0,0,.55);
+	background-color: rgba(0,20,0,.5);
 }
 
 
@@ -178,7 +182,7 @@ button:hover {
 
 .fa-chevron-down {
 	font-size: .7em;
-	margin: 0 30px;
+	margin: 0 10%;
 }
 
 
