@@ -28,6 +28,18 @@ h2 {
 	font-size: 1em;
 }
 
+#thankyou {
+	max-width: 650px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	padding-bottom: 20px;
+}
+
+#thankyou a {
+	font-family: 'Passion One', cursive;
+	font-size: 1.3em;
+}
 
 
 .year {
